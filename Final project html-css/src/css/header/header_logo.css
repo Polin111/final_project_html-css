@@ -1,0 +1,16 @@
+.project__logo {
+    width: 175px;
+  }
+  .project__logo_high,
+  .project__logo_low {
+    margin: 0;
+  }
+  .project__logo_high {
+    font-size: 12px;
+    font-weight: 300;
+    color: white;
+    float: right;
+  }
+  .project__logo_low {
+    margin-bottom: 40px;
+  }

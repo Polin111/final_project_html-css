@@ -1,0 +1,7 @@
+.project__header_avatar {
+    background-image: url("../../img/avatar.jpg");
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-size: cover;
+  }
